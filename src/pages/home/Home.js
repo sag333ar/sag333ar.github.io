@@ -1,5 +1,6 @@
 import React from "react";
 import './Home.css'
+import Skills from "./skills";
 
 export default function Home() {
   return (
@@ -7,7 +8,7 @@ export default function Home() {
       <h3>Professional Synopsis</h3>
       <ul>
         <li>
-          A dynamic professional with over 10 years of experience in iPhone/iPad
+          A dynamic professional with over 12 years of experience in iPhone/iPad
           application development with strong domain knowledge and object
           oriented language expertise.
         </li>
@@ -35,6 +36,8 @@ export default function Home() {
           skills.
         </li>
       </ul>
+      <h3>Skills</h3>
+      <Skills />
     </div>
   );
 }

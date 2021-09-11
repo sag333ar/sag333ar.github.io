@@ -11,8 +11,8 @@ const SiteHeader = () => {
       <HeaderLinks />
       <a href="/">
         <img src={photo} alt="Sagar" />
-        <h1>Sagar Kothari</h1>
       </a>
+      <h1>Sagar Kothari</h1>
       <h2>Mobile Application Developer</h2>
     </header>
   );
