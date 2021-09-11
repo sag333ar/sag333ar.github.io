@@ -5,6 +5,7 @@ import {
   faStackOverflow,
   faGithub,
 } from "@fortawesome/free-brands-svg-icons";
+import DarkMode from "./DarkMode";
 
 const HeaderLinks = () => {
   const icons = [
@@ -35,6 +36,8 @@ const HeaderLinks = () => {
           </h1>
         </a>
       ))}
+      <br />
+      <DarkMode />
     </div>
   );
 };
