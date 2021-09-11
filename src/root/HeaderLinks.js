@@ -30,7 +30,7 @@ const HeaderLinks = () => {
   return (
     <div className="social-links">
       {icons.map((obj, index) => (
-        <a key={index} href={obj.link} target="_blank">
+        <a key={index} href={obj.link} target="_blank" rel="noreferrer">
           <h1>
             <FontAwesomeIcon icon={obj.icon} />
           </h1>
