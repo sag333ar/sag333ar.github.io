@@ -6,7 +6,7 @@ const Skills = () => {
     <ul>
       {data.map((skill) => (
         <li>
-          <b>{skill.key}</b>: {skill.value}
+          <i>{skill.key}</i>: {skill.value}
         </li>
       ))}
     </ul>

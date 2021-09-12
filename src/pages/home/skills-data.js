@@ -13,7 +13,7 @@ const data = [
   },
   {
       "key": "Languages",
-      "value": "Swift Programming Language, Objective C"
+      "value": "Swift, Objective C, Kotlin, NodeJS, ReactJS"
   },
   {
       "key": "APIs / Libraries",
@@ -40,7 +40,7 @@ const data = [
       "value": "Preview, Seashore, Paintbrush"
   },
   {
-      "key": "iPhone Frameworks",
+      "key": "iOS Frameworks",
       "value": "UIKit, MapKit, CoreLocation, MediaPlayer, Addressbook, CoreData, MessageUI, Authentication"
   },
   {
