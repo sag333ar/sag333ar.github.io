@@ -14,7 +14,7 @@ const Menu = () => {
             <Link to="/key-responsibilities">Key Responsibilities</Link>
           </li>
           <li>
-            <Link to="/experience">Work History</Link>
+            <Link to="/work-history">Work History</Link>
           </li>
           <li>
             <Link to="/education">Education</Link>

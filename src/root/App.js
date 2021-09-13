@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import Home from "../pages/home/Home";
-import Experience from "../pages/Experience";
+import WorkHistory from "../pages/work/WorkHistory";
 import RolesResponsibilities from '../pages/RolesResponsibilities'
 import Education from '../pages/Education';
 import Contact from "../pages/Contact";
@@ -20,8 +20,8 @@ function App() {
           <Route exact path="/key-responsibilities">
             <RolesResponsibilities />
           </Route>
-          <Route exact path="/experience">
-            <Experience />
+          <Route exact path="/work-history">
+            <WorkHistory />
           </Route>
           <Route exact path="/education">
             <Education />
