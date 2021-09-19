@@ -16,12 +16,6 @@ const Menu = () => {
           <li>
             <Link to="/work-history">Work History</Link>
           </li>
-          <li>
-            <Link to="/education">Education</Link>
-          </li>
-          <li>
-            <Link to="/contact">Contact Me</Link>
-          </li>
         </ul>
       </menu>
     </nav>

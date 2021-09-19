@@ -76,6 +76,32 @@ const data = [
       to: "Jul-2012",
       highlights: "A2Z Databases, SalesGenie"
     }
+  },
+  {
+    company: {
+      name: "Digicorp",
+      link: "https://www.digi-corp.com",
+      location: "Ahmedabad, India"
+    },
+    info: {
+      title: "iOS Application Developer",
+      from: "Feb-2010",
+      to: "Oct-2011",
+      highlights: "Cinescape, Al-Watan TV"
+    }
+  },
+  {
+    company: {
+      name: "Hidden Brains",
+      link: "https://www.hiddenbrains.com",
+      location: "Ahmedabad, India"
+    },
+    info: {
+      title: "iOS Application Developer",
+      from: "Jul-2009",
+      to: "Jan-2010",
+      highlights: "Qopel, Court Finder"
+    }
   }
 ];
 
